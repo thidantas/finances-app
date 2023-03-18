@@ -92,8 +92,16 @@ function AuthProvider({ children }) {
     }
   }
 
+  async function signOut() {
+    await AsyncStorage.clear().then(() => {
+      setUser(null);
+    });
+  }
+
   return (
-    <AuthContext.Provider value={{ signed: !!user, user, signUp, signIn, loadingAuth, loading }}>
+    <AuthContext.Provider
+      value={{ signed: !!user, user, signUp, signIn, signOut, loadingAuth, loading }}
+    >
       {children}
     </AuthContext.Provider>
   );
