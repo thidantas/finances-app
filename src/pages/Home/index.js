@@ -7,8 +7,6 @@ import BalanceItem from '../../components/BalanceItem';
 import HistoricoList from '../../components/HistoricoList';
 import CalendarModal from '../../components/CalendarModal';
 
-import { AuthContext } from '../../contexts/auth';
-
 import api from '../../services/api';
 
 import Header from '../../components/Header';
@@ -67,6 +65,10 @@ export default function Home() {
     }
   }
 
+  function filterDateMovements(dateSelected) {
+    setDateMovements(dateSelected);
+  }
+
   return (
     <Background>
       <Header title="Minhas movimentações" />
@@ -95,7 +97,10 @@ export default function Home() {
       />
 
       <Modal visible={modalVisible} animationType="fade" transparent={true}>
-        <CalendarModal setVisible={() => setModalVisible(false)} />
+        <CalendarModal
+          setVisible={() => setModalVisible(false)}
+          handleFilter={filterDateMovements}
+        />
       </Modal>
     </Background>
   );
