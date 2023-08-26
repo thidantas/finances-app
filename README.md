@@ -48,12 +48,12 @@ Ter instalado:
 
 1 | 2 | 3 |
 -- | -- | -- 
-|![Screenshot_1693068270](https://github.com/thidantas/finances-app/assets/104513747/94ab53d0-513b-457c-91ac-a3dd2467b3a0)|![Screenshot_1693068274](https://github.com/thidantas/finances-app/assets/104513747/5a63f70b-2893-4de6-9492-7736ceb9d4ef)|![Screenshot_1693068297](https://github.com/thidantas/finances-app/assets/104513747/fe9b633c-c662-4c2d-898b-908b1fbdb8cf)|
+|![Screenshot_1693068270](https://github.com/thidantas/finances-app/assets/104513747/fc0aef6a-9fec-4a72-8544-0964a491936b)|![Screenshot_1693068274](https://github.com/thidantas/finances-app/assets/104513747/91a49d7f-88fa-42b3-a90a-cd0430d15628)|![Screenshot_1693068297](https://github.com/thidantas/finances-app/assets/104513747/fa4d7441-6999-425f-8ccf-0981c834a832)|
 
  4 | 5 | 6 
-  -- | --| -- 
-|![Screenshot_1693068300](https://github.com/thidantas/finances-app/assets/104513747/93cd35b9-43c1-475c-9b07-cd1ffa531f66)|![Screenshot_1693068304](https://github.com/thidantas/finances-app/assets/104513747/13d67c7b-a47b-4c0d-8093-04ec5e18e349)|![Screenshot_1693068307](https://github.com/thidantas/finances-app/assets/104513747/dd974718-c223-42f8-8635-c65a0f0e5125)|
+-- | --| -- 
+![Screenshot_1693068300](https://github.com/thidantas/finances-app/assets/104513747/cc255ba8-33c4-4a3c-b0af-3074726d357d)|![Screenshot_1693068304](https://github.com/thidantas/finances-app/assets/104513747/ccc338b4-b0a8-4dd1-83e4-00eb9254d99e)|![Screenshot_1693068307](https://github.com/thidantas/finances-app/assets/104513747/1052e459-ba3a-413d-8361-7fc31fafe177)|
 
  7 | 8
 -- | --
-|![Screenshot_1693068311](https://github.com/thidantas/finances-app/assets/104513747/69556e61-3320-4920-a7c6-e6434c723a68)|![Screenshot_1693068317](https://github.com/thidantas/finances-app/assets/104513747/d67f3ca1-a005-4266-9e7a-6e6b8f6b68dd)|
+|![Screenshot_1693068311](https://github.com/thidantas/finances-app/assets/104513747/1a1c994d-fc7b-4324-8c71-e6dd784d434f)|![Screenshot_1693068317](https://github.com/thidantas/finances-app/assets/104513747/b0a69ced-a93b-43b6-8fc0-ef3495d80157)|
